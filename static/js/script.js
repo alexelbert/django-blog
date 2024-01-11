@@ -1,1 +1,1 @@
-console.log(HelloWorld);
+console.log("To infinity and beyond!");
